@@ -1,4 +1,4 @@
-# Junior task
+# React challenge
 
 ## How to run?
 
